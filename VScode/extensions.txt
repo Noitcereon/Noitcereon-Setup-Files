@@ -3,5 +3,6 @@ Live Sass Compiler (includes Live Server)
 Prettier (code formatter for multiple languages)
 Visual Studio IntelliCode (Intellisense for Python, TypeScript/JavaScript and Java)
 Simple New File (enables creating files through the VScode command palette)
+VSCode Great Icons (custom icons for 200+ file extensions)
 
 Aside from those I use some language specific extensions for linting...
